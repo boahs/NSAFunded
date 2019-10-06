@@ -1,4 +1,4 @@
-class TwitchTV
+class UpFeatures
  include Cinch::Plugin
  
  match(/stream/)
